@@ -1,6 +1,6 @@
 {
-	"name": "debug-wrapper",
-	"version": "0.0.1",
+	"name": "debugjs-wrapper",
+	"version": "0.0.2",
 	"description": "Wrapper around debug npm module with debug that don't do stderr",
 	"license": "MIT",
 	"repository": "YOUR-GITHUB-USERNAME/unicorn-fun",
